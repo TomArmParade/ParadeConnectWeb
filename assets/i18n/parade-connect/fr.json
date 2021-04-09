@@ -1,0 +1,333 @@
+{
+  "parade": {
+    "appName": "Parade Connect",
+    "societe": "Parade Connect SAS 2018",
+    "cgu": "CONDITIONS GENERALES D'UTILISATION",
+    "loading":"Chargement",
+
+    "error": {
+      "default":"",
+      "forbidden": "Vous n'avez pas accès à cette ressource.",
+      "notFound": "Aucune ressource n'à été trouvé."
+    },
+
+    "acquitte": {
+      "success": "Votre réponse à bien été prise en compte"
+    },
+    "localisation": {
+      "title": "Localisation du porteur",
+      "tooltip": "{{porteur}} a chuté à cet endroit le {{date}} à {{time}}",
+      "address": "Adresse"
+    },
+    "login": {
+      "societe": "PARADE CONNECT SAS 2018",
+      "txtAchete": "JE N'AI PAS ENCORE MA CHAUSSURE !",
+      "btnAchete": "J'ACHÈTE",
+      "footerThumb": "UN COUP DE POUCE ?",
+      "footerNumber": "0810 963 564",
+      "footerTaxes": "* appel non surtaxé",
+      "form": {
+        "title": "Accédez à votre espace de gestion et de configuration Parade Connect.",
+        "button": "SE CONNECTER",
+        "rememberMe": "Se souvenir de moi",
+        "forgotPassword": "J'ai oublié mon mot de passe",
+        "error": "couple identifiant / mot de passe erroné"
+      },
+      "askPass": {
+        "title": "Demander un nouveau mot de passe.",
+        "error": "identifiant incorrect",
+        "valid": "Une demande de réinitialisation vous a été envoyée",
+        "button": "RÉINITIALISER"
+      },
+      "changePass": {
+        "title": "Changer de mot de passe.",
+        "error": "Impossible de mettre à jour le mot de passe",
+        "button": "RÉINITIALISER"
+      },
+      "createAccount": {
+        "title": "Création du compte.",
+        "password": "Mot de passe",
+        "confirm": "Confirmer",
+        "optIn": "J’accepte de recevoir les offres promotionnelles de la part de PARADE ",
+        "error": "Impossible de valider la création du compte.",
+        "button": "Valider la création"
+      }
+    },
+    "gestion":{
+
+      "welcome":"Bonjour",
+      "porteurList": "LISTE DES PORTEURS",
+      "porteurs": "TOUS LES PORTEURS",
+      "buttonAddPorteur": "AJOUTER UN PORTEUR",
+      "switchY":"Oui",
+      "switchN":"Non",
+      "shoe": "Chaussure",
+      "filter": {
+        "title": "FILTRER",
+        "porteur": "Nom du porteur",
+        "alert": "Alertes détectées"
+      },
+
+      "dashboard": {
+        "porteurModify": "VOIR LE PROFIL",
+        "showActivity": "VOIR L'ACTIVITÉ",
+        "addShoes": "AJOUTER UNE CHAUSSURE",
+        "modifyChainAlert": "MODIFIER",
+        "porteurAlert": "Dernière chute relevée le ",
+        "shoesIndex": "CHAUSSURE N°",
+        "shoesSubs": "L'abonnement prendra fin le",
+        "shoesTested": "Vous n'avez pas testé votre chaussure",
+        "shoesDateStart": "relevée depuis",
+        "shoesDateStarts": "relevées depuis",
+        "shoesWearStart": "portée depuis",
+        "shoesWearStarts": "portées depuis",
+        "shoesBtnTest": "TESTER",
+        "shoesHour": "heure",
+        "shoesHours": "heures",
+        "shoesAlert": "alerte",
+        "shoesAlerts": "alertes",
+        "shoesAutoAlert": "Nombre d’alertes automatiques sur les 7 derniers jours.",
+        "shoesManualAlert": "Nombre d’alertes manuelles sur les 7 derniers jours.",
+        "titleAlert": "Contacts d'urgence",
+        "tootlipAlert": "Ceci est la liste des personnes contactées en cas de chute / alerte",
+        "titlePorteur": "Porteur",
+        "synthesis": "Consulter"
+      },
+
+      "park": {
+        "headNumSub": "N° Abonnement",
+        "headRefProduct": "N° de série",
+        "headEntreprise": "Entreprise",
+        "headPorteur": "Porteur",
+        "headGestionnaire": "Gestionnaire",
+        "headSubscribe": "Echéance abonnement",
+        "headBattery": "Batterie",
+        "headAlert": "Alertes",
+        "headState" : "Etat",
+        "headMarque": "Marque",
+        "headAction": "Actions"
+      },
+
+      "contact": {
+        "headCivility": "Civilité",
+        "headFirstname": "Prénom",
+        "headName": "Nom",
+        "headProfil": "Profil",
+        "headMail": "e-mail",
+        "headPhone": "Téléphone",
+        "headDataUsage": "Autorisation<br/>d'usage des données",
+        "headAutoCall": "Autorisation<br/>d'appel automatique",
+        "headRaised": "Dernière relance",
+        "headRaise": "Relancer",
+        "headModify": "Modifier",
+        "headSuspend": "Suspendre"
+      },
+
+      "firmware": {
+        "title": "Firmware",
+        "versionTalonLabel": "Version du talon",
+        "versionLanguetteLabel": "Version de la langue",
+        "urlTalonLabel": "Lien du talon",
+        "urlLanguetteLabel": "Lien de la languette"
+      },
+      "activity": {
+        "tabs": {
+          "subscription": "ABONNEMENTS",
+          "profil": "PROFIL",
+          "helper": "CONTACT D'URGENCE",
+          "planningContact": "PLANNING DE CONTACT"
+        },
+        "activityLast": "Activités sur les 7 derniers jours",
+        "activityGraphTitle": "ACTIVITÉS ET BATTERIE",
+        "radioWeek": "Semaine",
+        "radioMonth": "Mois",
+        "radioYear": "Année",
+        "battery": "Batterie",
+        "activity": "Activités",
+        "weekDate": "Semaine du",
+        "monthDate": "",
+        "yearDate": "Année",
+        "edit": "Éditer",
+        "dateFormat": {
+          "dateTime": "%a %b %e %X %Y",
+          "date": "%d.%m.%Y",
+          "time": "%H:%M:%S",
+          "periods": ["AM", "PM"],
+          "days": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+          "shortDays": ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+          "months": [
+            "Janvier",
+            "Février",
+            "Mars",
+            "Avril",
+            "Mai",
+            "Juin",
+            "Juillet",
+            "Août",
+            "Septembre",
+            "Octobre",
+            "Novembre",
+            "Decembre"
+          ],
+          "shortMonths": [
+            "Jan",
+            "Fev",
+            "Mar",
+            "Avr",
+            "Mai",
+            "Jui",
+            "Jul",
+            "Aou",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ]
+        }
+      },
+
+      "sav": {
+        "title": "AIDE / SAV",
+        "removeAccount": "Demander la suppression de mes données personnelles"
+      },
+
+      "avatar" : {
+        "edit": "Éditer",
+        "title": "Changer d'avatar",
+        "rule": "Le fichier doit faire au maximum une taille de 100px de largeur sur 100px hauteur",
+        "error": "Le format ou la taille de l'image est incorrect.",
+        "acceptedFormat": "Format accepté : png, jpg, jpeg",
+        "fileInput": "parcourir",
+        "close": "FERMER",
+        "valid": "VALIDER"
+      },
+
+      "footer": {
+        "help": "Besoin d'aide ?",
+        "telnumber":"0810 963 564*",
+        "taxes": "(Appel non surtaxé)",
+        "SAV": "SAV",
+        "CGU":"Conditions générales d'utilisation",
+        "subscription": "Abonnement"
+      },
+
+      "assistant": {
+        "next": "ÉTAPE SUIVANTE",
+        "end": "TERMINER",
+        "previous": "ÉTAPE PRÉCÉDENTE",
+
+
+        "stepper": {
+          "gestionnaire": "Gestionnaire",
+          "porteur": "Porteur",
+          "abonnement": "Abonnement",
+          "aidant": "Aidants",
+          "alerte": "Chaîne d'alertes",
+          "demarrer": "Démarrer",
+          "step": "Étape"
+        },
+
+        "gestionnaire": {
+          "title": "Gestionnaire",
+          "deliveryAddress": "Adresse de livraison",
+          "factAddress": "Adresse de facturation",
+          "enterprise": "Entreprise",
+          "btnModify": "MODIFIER MES INFORMATIONS",
+          "role": "Poste"
+        },
+        "porteur": {
+          "title": "Porteur",
+          "isPorteur": "Je suis porteur"
+        },
+        "chaussure": {
+          "title": "Paramétrage de la chaussure",
+          "nbseriepart": "Numéro de série",
+          "nbserie": "N° de série",
+          "subscription":"Abonnement",
+          "substart": "Début",
+          "subend": "Fin",
+          "informations":"Informations",
+          "pointure": "Pointure",
+          "colour": "Couleur",
+          "name": "Nom",
+          "reference": "Référence"
+        },
+        "abonnement": {
+          "title": "Abonnement",
+          "subscription":"Informations",
+          "substart": "Début",
+          "subend": "Fin",
+          "shoes": "Chaussures rattachées",
+          "nbserie": "N° de série",
+          "pointure": "Pointure",
+          "colour": "Couleur",
+          "marque": "Marque",
+          "reference": "Référence"
+        },
+        "aidant": {
+          "title": "Aidants",
+          "subTitle": "Ordre de contact en cas de chute",
+          "isAidant": "Je suis aidant",
+          "assistance": "Souscrire à la téléassistance 7/7 -24/24 10€/mois sans engagement",
+          "btnAssistance": "VOIR L'OFFRE",
+          "addAidant": "AJOUTER UNE PERSONNE"
+        },
+        "chainAlert": {
+          "title": "Alertes",
+          "subTitle": "Chaîne d'alertes",
+          "holiday": "Mode vacances",
+          "fullTime": "Etre contacté tous les jours",
+          "modalErrorTitle": "Erreur sur la chaîne d'alerte."
+        },
+        "demarrer": {
+          "title": "Test de la chaussure"
+        }
+      },
+      "profil": {
+        "title": "Mon profil",
+        "cancel": "Annuler",
+        "validate": "Enregistrer"
+      },
+
+
+      "synthese": {
+        "title": "Synthèse",
+        "subscriber": "Souscripteur",
+        "carrier": "Porteur",
+        "caregiver": "Contacts d'urgence",
+        "subscription": "Abonnement",
+        "serialNumber": "N° de série",
+        "shoeSize": "Pointure",
+        "brand": "Marque",
+        "goToDashboard": "Revenir à l'accueil",
+        "modify": "Modifier",
+        "modifyCaregivers": "Modifier les contacts",
+        "modifyAlertChain": "Modifier les disponibilités",
+        "image":"Type chaussure"
+      },
+
+      "form": {
+        "civility": "Civilité",
+        "lastname": "Nom",
+        "firstname": "Prénom",
+        "birthdate": "Date de naissance",
+        "phone": "Téléphone",
+        "fixephone": "Téléphone fixe",
+        "mobilephone": "Téléphone mobile",
+        "fixepro": "Fixe professionnel",
+        "mobilepro": "Mobile professionnel",
+        "fixeperso": "Fixe personnel",
+        "mobileperso": "Mobile personnel",
+        "tel1": "Téléphone n°1",
+        "tel2": "Téléphone n°2",
+        "email": "Email",
+        "address": "Adresse",
+        "zipcode": "Code postal",
+        "city": "Ville",
+        "country": "Pays",
+        "switchYes": "OUI",
+        "switchNo": "NON"
+      }
+    }
+  }
+}
