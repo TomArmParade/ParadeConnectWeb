@@ -95,6 +95,9 @@
       },
 
       "park": {
+        "headChaussure":"Chaussure",
+        "headRedirection":"Redirection",
+        "headDeveui":"Deveui",
         "headNumSub": "N° Abonnement",
         "headRefProduct": "N° de série",
         "headEntreprise": "Entreprise",
@@ -105,7 +108,8 @@
         "headAlert": "Alertes",
         "headState" : "Etat",
         "headMarque": "Marque",
-        "headAction": "Actions"
+        "headAction": "Actions",
+        "shoesDateStarts": "relevées depuis"
       },
 
       "contact": {
